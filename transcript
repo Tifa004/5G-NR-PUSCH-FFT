@@ -1,0 +1,296 @@
+# do do.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim work.tb -voptargs="+acc" 
+# Start time: 23:54:37 on Jun 11,2024
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb(fast)
+# Loading work.Top(fast)
+# Loading work.which_stages(fast)
+# Loading work.calc(fast)
+# Loading work.memory1(fast)
+# Loading work.pulse_gen(fast)
+# Loading work.demux(fast)
+# Loading work.demux(fast__1)
+# Loading work.memory2(fast)
+# Loading work.FFT5(fast)
+# Loading work.SdfUnit25(fast)
+# Loading work.Butterfly5(fast)
+# Loading work.Multiply(fast)
+# Loading work.DelayBuffer(fast)
+# Loading work.DelayBuffer(fast__1)
+# Loading work.DelayBuffer(fast__2)
+# Loading work.DelayBuffer(fast__3)
+# Loading work.Twiddle25(fast)
+# Loading work.DelayBuffer(fast__4)
+# Loading work.DelayBuffer(fast__5)
+# Loading work.DelayBuffer(fast__6)
+# Loading work.DelayBuffer(fast__7)
+# Loading work.SdfUnit5(fast)
+# Loading work.order5(fast)
+# Loading work.reorder25(fast)
+# Loading work.InterFFT(fast)
+# Loading work.Twiddle15(fast)
+# Loading work.Twiddle45(fast)
+# Loading work.Twiddle75(fast)
+# Loading work.Twiddle135(fast)
+# Loading work.Twiddle225(fast)
+# Loading work.Twiddle12(fast)
+# Loading work.Twiddle24(fast)
+# Loading work.Twiddle36(fast)
+# Loading work.Twiddle48(fast)
+# Loading work.Twiddle60(fast)
+# Loading work.Twiddle72(fast)
+# Loading work.Twiddle96(fast)
+# Loading work.Twiddle108(fast)
+# Loading work.Twiddle120(fast)
+# Loading work.Twiddle144(fast)
+# Loading work.Twiddle180(fast)
+# Loading work.Twiddle192(fast)
+# Loading work.Twiddle216(fast)
+# Loading work.Twiddle240(fast)
+# Loading work.Twiddle288(fast)
+# Loading work.Twiddle300(fast)
+# Loading work.Twiddle324(fast)
+# Loading work.Twiddle360(fast)
+# Loading work.Twiddle384(fast)
+# Loading work.Twiddle432(fast)
+# Loading work.Twiddle480(fast)
+# Loading work.Twiddle540(fast)
+# Loading work.Twiddle576(fast)
+# Loading work.Twiddle600(fast)
+# Loading work.Twiddle648(fast)
+# Loading work.Twiddle720(fast)
+# Loading work.Twiddle768(fast)
+# Loading work.Twiddle864(fast)
+# Loading work.Twiddle900(fast)
+# Loading work.Twiddle960(fast)
+# Loading work.Twiddle972(fast)
+# Loading work.Twiddle1080(fast)
+# Loading work.Twiddle1152(fast)
+# Loading work.Twiddle1200(fast)
+# Loading work.FFT3(fast)
+# Loading work.SdfUnit243(fast)
+# Loading work.Butterfly3(fast)
+# Loading work.DelayBuffer(fast__8)
+# Loading work.DelayBuffer(fast__9)
+# Loading work.Twiddle243(fast)
+# Loading work.DelayBuffer(fast__10)
+# Loading work.DelayBuffer(fast__11)
+# Loading work.DelayBuffer(fast__12)
+# Loading work.DelayBuffer(fast__13)
+# Loading work.DelayBuffer(fast__14)
+# Loading work.SdfUnit81(fast)
+# Loading work.Twiddle81(fast)
+# Loading work.SdfUnit27(fast)
+# Loading work.Twiddle27(fast)
+# Loading work.SdfUnit9(fast)
+# Loading work.Twiddle9(fast)
+# Loading work.SdfUnit3(fast)
+# Loading work.order3(fast)
+# Loading work.reorder9(fast)
+# Loading work.reorder27(fast)
+# Loading work.reorder81(fast)
+# Loading work.reorder243(fast)
+# Loading work.mux(fast)
+# Loading work.mux(fast__1)
+# Loading work.FFT2(fast)
+# Loading work.SdfUnit256(fast)
+# Loading work.Butterfly2(fast)
+# Loading work.DelayBuffer(fast__15)
+# Loading work.DelayBuffer(fast__16)
+# Loading work.Twiddle256(fast)
+# Loading work.SdfUnit256(fast__1)
+# Loading work.DelayBuffer(fast__17)
+# Loading work.DelayBuffer(fast__18)
+# Loading work.SdfUnit256(fast__2)
+# Loading work.DelayBuffer(fast__19)
+# Loading work.SdfUnit256(fast__3)
+# Loading work.SdfUnit128(fast)
+# Loading work.Twiddle128(fast)
+# Loading work.SdfUnit128(fast__1)
+# Loading work.SdfUnit128(fast__2)
+# Loading work.SdfUnit2(fast)
+# Loading work.SdfUnit64(fast)
+# Loading work.Twiddle64(fast)
+# Loading work.SdfUnit64(fast__1)
+# Loading work.SdfUnit64(fast__2)
+# Loading work.SdfUnit32(fast)
+# Loading work.Twiddle32(fast)
+# Loading work.SdfUnit32(fast__1)
+# Loading work.SdfUnit16(fast)
+# Loading work.Twiddle16(fast)
+# Loading work.SdfUnit16(fast__1)
+# Loading work.SdfUnit8(fast)
+# Loading work.Twiddle8(fast)
+# Loading work.SdfUnit4(fast)
+# Loading work.Twiddle4(fast)
+# Loading work.order2(fast)
+# Loading work.reorder4(fast)
+# Loading work.reorder8(fast)
+# Loading work.reorder16(fast)
+# Loading work.reorder32(fast)
+# Loading work.reorder64(fast)
+# Loading work.reorder128(fast)
+# Loading work.reorder256(fast)
+#                 7372 FFT done
+#                 7376 sampled
+#                 7384 sampled
+#                 7392 sampled
+#                 7400 sampled
+#                 7460 FFT done
+#                 7464 sampled
+#                 7472 sampled
+#                 7480 sampled
+#                 7488 sampled
+#                 7548 FFT done
+#                 7552 sampled
+#                 7560 sampled
+#                 7568 sampled
+#                 7576 sampled
+#                 7636 FFT done
+#                 7640 sampled
+#                 7648 sampled
+#                 7656 sampled
+#                 7664 sampled
+#                 7724 FFT done
+#                 7728 sampled
+#                 7736 sampled
+#                 7744 sampled
+#                 7752 sampled
+#                 7812 FFT done
+#                 7816 sampled
+#                 7824 sampled
+#                 7832 sampled
+#                 7840 sampled
+#                 7900 FFT done
+#                 7904 sampled
+#                 7912 sampled
+#                 7920 sampled
+#                 7928 sampled
+#                 7988 FFT done
+#                 7992 sampled
+#                 8000 sampled
+#                 8008 sampled
+#                 8016 sampled
+#                 8076 FFT done
+#                 8080 sampled
+#                 8088 sampled
+#                 8096 sampled
+#                 8104 sampled
+#                 8164 FFT done
+#                 8168 sampled
+#                 8176 sampled
+#                 8184 sampled
+#                 8192 sampled
+#                 8252 FFT done
+#                 8256 sampled
+#                 8264 sampled
+#                 8272 sampled
+#                 8280 sampled
+#                 8340 FFT done
+#                 8344 sampled
+#                 8352 sampled
+#                 8360 sampled
+#                 8368 sampled
+#                 8428 FFT done
+#                 8432 sampled
+#                 8440 sampled
+#                 8448 sampled
+#                 8456 sampled
+#                 8516 FFT done
+#                 8520 sampled
+#                 8528 sampled
+#                 8536 sampled
+#                 8544 sampled
+#                 8604 FFT done
+#                 8608 sampled
+#                 8616 sampled
+#                 8624 sampled
+#                 8632 sampled
+#                 8692 FFT done
+#                 8696 sampled
+#                 8704 sampled
+#                 8712 sampled
+#                 8720 sampled
+#                 8780 FFT done
+#                 8784 sampled
+#                 8792 sampled
+#                 8800 sampled
+#                 8808 sampled
+#                 8868 FFT done
+#                 8872 sampled
+#                 8880 sampled
+#                 8888 sampled
+#                 8896 sampled
+#                 8956 FFT done
+#                 8960 sampled
+#                 8968 sampled
+#                 8976 sampled
+#                 8984 sampled
+#                 9044 FFT done
+#                 9048 sampled
+#                 9056 sampled
+#                 9064 sampled
+#                 9072 sampled
+#                 9132 FFT done
+#                 9136 sampled
+#                 9144 sampled
+#                 9152 sampled
+#                 9160 sampled
+#                 9220 FFT done
+#                 9224 sampled
+#                 9232 sampled
+#                 9240 sampled
+#                 9248 sampled
+#                 9308 FFT done
+#                 9312 sampled
+#                 9320 sampled
+#                 9328 sampled
+#                 9336 sampled
+#                 9396 FFT done
+#                 9400 sampled
+#                 9408 sampled
+#                 9416 sampled
+#                 9424 sampled
+#                 9484 FFT done
+#                 9488 sampled
+#                 9496 sampled
+#                 9504 sampled
+#                 9512 sampled
+#                 9572 FFT done
+#                 9576 sampled
+#                 9584 sampled
+#                 9592 sampled
+#                 9600 sampled
+#                 9660 FFT done
+#                 9664 sampled
+#                 9672 sampled
+#                 9680 sampled
+#                 9688 sampled
+# ** Note: $stop    : C:/Users/Mostafa/Desktop/Digital/ST FFT/tb.sv(90)
+#    Time: 9716 ns  Iteration: 1  Instance: /tb
+# Break in Module tb at C:/Users/Mostafa/Desktop/Digital/ST FFT/tb.sv line 90
+# Stopped at C:/Users/Mostafa/Desktop/Digital/ST FFT/tb.sv line 90
+# End time: 23:54:53 on Jun 11,2024, Elapsed time: 0:00:16
+# Errors: 0, Warnings: 0

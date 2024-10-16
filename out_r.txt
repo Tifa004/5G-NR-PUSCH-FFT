@@ -1,0 +1,27 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/tb/output_r
+// format=mti addressradix=h dataradix=d version=1.0 wordsperline=1 noaddress
+  -7856
+  -7106
+  -2188
+  -7557
+    740
+   1918
+   5457
+   3521
+   2549
+  -5344
+   1534
+  -6418
+   4350
+    820
+   3894
+  -6537
+   2282
+    186
+   1165
+   2181
+  -6855
+   -998
+   1620
+   1762

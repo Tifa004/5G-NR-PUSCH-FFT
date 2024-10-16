@@ -1,0 +1,687 @@
+{C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder16.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder16.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder16
+
+Top level modules:
+	reorder16
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/pulse_gen.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/pulse_gen.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pulse_gen
+
+Top level modules:
+	pulse_gen
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Memory2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Memory2.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module memory2
+
+Top level modules:
+	memory2
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit25.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit25.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit25
+
+Top level modules:
+	SdfUnit25
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit243.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit243.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit243
+
+Top level modules:
+	SdfUnit243
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle72.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle72.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle72
+
+Top level modules:
+	Twiddle72
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle1080.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle1080.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle1080
+
+Top level modules:
+	Twiddle1080
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle864.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle864.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle864
+
+Top level modules:
+	Twiddle864
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit128.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit128.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit128
+
+Top level modules:
+	SdfUnit128
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder256.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder256.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder256
+
+Top level modules:
+	reorder256
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle300.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle300.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle300
+
+Top level modules:
+	Twiddle300
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle192.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle192.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle192
+
+Top level modules:
+	Twiddle192
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle4.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle4.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle4
+
+Top level modules:
+	Twiddle4
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle256.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle256.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle256
+
+Top level modules:
+	Twiddle256
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder25.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder25.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder25
+
+Top level modules:
+	reorder25
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/buffer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/buffer.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DelayBuffer
+
+Top level modules:
+	DelayBuffer
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle240.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle240.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle240
+
+Top level modules:
+	Twiddle240
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle60.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle60.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle60
+
+Top level modules:
+	Twiddle60
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle8.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle8.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle8
+
+Top level modules:
+	Twiddle8
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/fft5.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/fft5.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT5
+
+Top level modules:
+	FFT5
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle900.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle900.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle900
+
+Top level modules:
+	Twiddle900
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle180.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle180.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle180
+
+Top level modules:
+	Twiddle180
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle108.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle108.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle108
+
+Top level modules:
+	Twiddle108
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle81.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle81.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle81
+
+Top level modules:
+	Twiddle81
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/butterfly5.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/butterfly5.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Butterfly5
+
+Top level modules:
+	Butterfly5
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle64.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle64.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle64
+
+Top level modules:
+	Twiddle64
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit4.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit4.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit4
+
+Top level modules:
+	SdfUnit4
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/mux.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/mux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit256.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit256.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit256
+
+Top level modules:
+	SdfUnit256
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/InterrFFT_Twid.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/InterrFFT_Twid.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module InterFFT
+
+Top level modules:
+	InterFFT
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/demux.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/demux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module demux
+
+Top level modules:
+	demux
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle384.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle384.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle384
+
+Top level modules:
+	Twiddle384
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit8.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit8.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit8
+
+Top level modules:
+	SdfUnit8
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle432.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle432.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle432
+
+Top level modules:
+	Twiddle432
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit81.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit81.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit81
+
+Top level modules:
+	SdfUnit81
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle648.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle648.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle648
+
+Top level modules:
+	Twiddle648
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit64.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit64.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit64
+
+Top level modules:
+	SdfUnit64
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Multiply.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Multiply.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Multiply
+
+Top level modules:
+	Multiply
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/fft2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/fft2.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT2
+
+Top level modules:
+	FFT2
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/butterfly2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/butterfly2.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Butterfly2
+
+Top level modules:
+	Butterfly2
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder81.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder81.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder81
+
+Top level modules:
+	reorder81
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder64.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder64.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder64
+
+Top level modules:
+	reorder64
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle360.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle360.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle360
+
+Top level modules:
+	Twiddle360
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle27.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle27.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle27
+
+Top level modules:
+	Twiddle27
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle9.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle9.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle9
+
+Top level modules:
+	Twiddle9
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle576.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle576.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle576
+
+Top level modules:
+	Twiddle576
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle972.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle972.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle972
+
+Top level modules:
+	Twiddle972
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/order5.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/order5.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module order5
+
+Top level modules:
+	order5
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle48.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle48.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle48
+
+Top level modules:
+	Twiddle48
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit5.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit5.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit5
+
+Top level modules:
+	SdfUnit5
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle32.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle32.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle32
+
+Top level modules:
+	Twiddle32
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle15.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle15.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle15
+
+Top level modules:
+	Twiddle15
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle960.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle960.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle960
+
+Top level modules:
+	Twiddle960
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit27.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit27.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit27
+
+Top level modules:
+	SdfUnit27
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit9.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit9.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit9
+
+Top level modules:
+	SdfUnit9
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle36.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle36.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle36
+
+Top level modules:
+	Twiddle36
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle135.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle135.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle135
+
+Top level modules:
+	Twiddle135
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle216.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle216.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle216
+
+Top level modules:
+	Twiddle216
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder4.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder4.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder4
+
+Top level modules:
+	reorder4
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/which_stages.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/which_stages.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module which_stages
+
+Top level modules:
+	which_stages
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit32.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit32.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit32
+
+Top level modules:
+	SdfUnit32
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle768.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle768.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle768
+
+Top level modules:
+	Twiddle768
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder8.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder8.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder8
+
+Top level modules:
+	reorder8
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/fft3.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/fft3.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT3
+
+Top level modules:
+	FFT3
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle24.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle24.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle24
+
+Top level modules:
+	Twiddle24
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle600.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle600.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle600
+
+Top level modules:
+	Twiddle600
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/butterfly3.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/butterfly3.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Butterfly3
+
+Top level modules:
+	Butterfly3
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder27.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder27.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder27
+
+Top level modules:
+	reorder27
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/order2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/order2.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module order2
+
+Top level modules:
+	order2
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle45.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle45.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle45
+
+Top level modules:
+	Twiddle45
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle144.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle144.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle144
+
+Top level modules:
+	Twiddle144
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle225.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle225.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle225
+
+Top level modules:
+	Twiddle225
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle540.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle540.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle540
+
+Top level modules:
+	Twiddle540
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit2.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit2
+
+Top level modules:
+	SdfUnit2
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder32.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder32.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder32
+
+Top level modules:
+	reorder32
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle12.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle12.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle12
+
+Top level modules:
+	Twiddle12
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle480.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle480.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle480
+
+Top level modules:
+	Twiddle480
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Memory1.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Memory1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module memory1
+
+Top level modules:
+	memory1
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/calc.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/calc.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module calc
+
+Top level modules:
+	calc
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle16.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle16.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle16
+
+Top level modules:
+	Twiddle16
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle288.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle288.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle288
+
+Top level modules:
+	Twiddle288
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle120.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle120.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle120
+
+Top level modules:
+	Twiddle120
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle75.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle75.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle75
+
+Top level modules:
+	Twiddle75
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Top.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Top.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit16.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit16.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit16
+
+Top level modules:
+	SdfUnit16
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder243.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder243.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder243
+
+Top level modules:
+	reorder243
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder9.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder9.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder9
+
+Top level modules:
+	reorder9
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle25.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle25.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle25
+
+Top level modules:
+	Twiddle25
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle96.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle96.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle96
+
+Top level modules:
+	Twiddle96
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder128.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/reorder128.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reorder128
+
+Top level modules:
+	reorder128
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle243.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle243.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle243
+
+Top level modules:
+	Twiddle243
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle324.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle324.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle324
+
+Top level modules:
+	Twiddle324
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle720.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle720.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle720
+
+Top level modules:
+	Twiddle720
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle1152.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle1152.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle1152
+
+Top level modules:
+	Twiddle1152
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/order3.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/order3.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module order3
+
+Top level modules:
+	order3
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit3.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/sdfunit3.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SdfUnit3
+
+Top level modules:
+	SdfUnit3
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle128.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle128.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle128
+
+Top level modules:
+	Twiddle128
+
+} {} {}} {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle1200.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mostafa/Desktop/Digital/ST FFT/Twiddle1200.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Twiddle1200
+
+Top level modules:
+	Twiddle1200
+
+} {} {}}
